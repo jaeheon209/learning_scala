@@ -1,6 +1,6 @@
-package leanrning.scala.chapter01
+package leanrning.scala
 
-object chapter03 {
+object Chapter03 {
 
   //P10
   /*
@@ -117,8 +117,8 @@ by replaceing tabs (\t) with newlines (\n);
     println(s"You own $$${money}")
 
     val a = 128
-//    val b: Char = a
-//    val c: String = a
+    //    val b: Char = a
+    //    val c: String = a
     val d: Double = a
     val d2: Int = d.toInt
 

@@ -1,6 +1,6 @@
-package leanrning.scala.chapter01
+package leanrning.scala
 
-object chapter02 {
+object Chapter02 {
   def main(args: Array[String]) {
 
     //P6
@@ -36,8 +36,6 @@ object chapter02 {
     //4번
     // :paste 입력 후 scala 소스 붙여 넣기
     // 붙여 놓기 모드 나가면 실행
-
-
 
 
   }
